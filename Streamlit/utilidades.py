@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 
 def generarmenu():
     with st .sidebar:
