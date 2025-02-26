@@ -3,3 +3,4 @@ matplotlib
 pandas  # Si usas Pandas en tu código
 numpy  # Si usas NumPy
 Utilidades
+PIL
